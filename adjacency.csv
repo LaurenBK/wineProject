@@ -1,0 +1,284 @@
+,Source,Target,Weight,Type
+0,Neil Ellis Sauvignon Blanc 2013,Jackal Bird,1,Undirected
+1,Neil Ellis Sauvignon Blanc 2013,Bell Tower Estate Wine,1,Undirected
+2,Neil Ellis Sauvignon Blanc 2013,Semillon,1,Undirected
+3,Neil Ellis Sauvignon Blanc 2013,De Wetshof Estate Bateleur Chardonnay,1,Undirected
+4,Neil Ellis Sauvignon Blanc 2013,Spice Route Chakalaka,1,Undirected
+5,Neil Ellis Sauvignon Blanc 2013,Jordan Nine Yards Chardonnay,1,Undirected
+6,Neil Ellis Sauvignon Blanc 2013,Kloovenburg Shiraz,1,Undirected
+7,Neil Ellis Sauvignon Blanc 2013,Laibach Ladybird,1,Undirected
+8,Neil Ellis Sauvignon Blanc 2013,Morgenhof Estate Chenin Blanc,1,Undirected
+9,Neil Ellis Sauvignon Blanc 2013,Rupert & Rothschild Classique,1,Undirected
+10,Neil Ellis Sauvignon Blanc 2013,Saronsburg Viognier,1,Undirected
+11,Neil Ellis Sauvignon Blanc 2013,Tokara Reserve Noble Late Harvest 2009,1,Undirected
+12,Neil Ellis Sauvignon Blanc 2013,Vondeling Chardonnay,1,Undirected
+13,Sauvignon Blanc 2013,Chenin Blanc 2014,1,Undirected
+14,Sauvignon Blanc 2013,100% Pinotage,1,Undirected
+15,Sauvignon Blanc 2013,Chardonnay 2013,1,Undirected
+16,Sauvignon Blanc 2013,Anthony Rupert Optima,1,Undirected
+17,Sauvignon Blanc 2013,Hamilton Russel Vineyards Chardonnay 2009,1,Undirected
+18,Sauvignon Blanc 2013,The Morgenster,1,Undirected
+19,Sauvignon Blanc 2013,Saronsburg Viognier,2,Undirected
+20,Sauvignon Blanc 2013,Tokara Reserve Noble Late Harvest 2009,2,Undirected
+21,Sauvignon Blanc 2013,Vondeling Chardonnay,1,Undirected
+22,Sauvignon Blanc 2013,Viogner,1,Undirected
+23,Chenin Blanc 2014,Chardonnay 2013,1,Undirected
+24,Chenin Blanc 2014,Hamilton Russel Vineyards Chardonnay 2009,1,Undirected
+25,Chenin Blanc 2014,Morgenhof Estate Chenin Blanc,1,Undirected
+26,Chenin Blanc 2014,Saronsburg Viognier,1,Undirected
+27,Chenin Blanc 2014,Tokara Reserve Noble Late Harvest 2009,1,Undirected
+28,Chenin Blanc 2014,Vondeling Chardonnay,1,Undirected
+29,Chenin Blanc 2014,Viogner,1,Undirected
+30,Jackal Bird,Pinotage 2013,1,Undirected
+31,Jackal Bird,Secateurs Bordeaux Blend,1,Undirected
+32,Jackal Bird,Storm Wines,1,Undirected
+33,Jackal Bird,Anthony Rupert Optima,1,Undirected
+34,Jackal Bird,Galpin Peak Pinot Noir,1,Undirected
+35,Jackal Bird,Claime D'or Cabernet Franc,1,Undirected
+36,Jackal Bird,Semillon,1,Undirected
+37,Jackal Bird,Lady May,1,Undirected
+38,Jackal Bird,Kloovenburg Shiraz,1,Undirected
+39,Jackal Bird,The Morgenster,1,Undirected
+40,Jackal Bird,Muratie Shiraz,1,Undirected
+41,Jackal Bird,Rupert & Rothschild Classique,2,Undirected
+42,Jackal Bird,Rustenburg Stellenbosch John X Merriman,1,Undirected
+43,Jackal Bird,Waterkloof Circumstance Syrah,1,Undirected
+44,Pinotage 2013,100% Pinotage,1,Undirected
+45,Pinotage 2013,Secateurs Bordeaux Blend,1,Undirected
+46,Pinotage 2013,The Bernard Series',1,Undirected
+47,Pinotage 2013,Storm Wines,1,Undirected
+48,Pinotage 2013,Anthony Rupert Optima,1,Undirected
+49,Pinotage 2013,Bell Tower Estate Wine,1,Undirected
+50,Pinotage 2013,Galpin Peak Pinot Noir,1,Undirected
+51,Pinotage 2013,Claime D'or Cabernet Franc,1,Undirected
+52,Pinotage 2013,Spice Route Chakalaka,1,Undirected
+53,Pinotage 2013,Lady May,2,Undirected
+54,Pinotage 2013,Kloovenburg Shiraz,1,Undirected
+55,Pinotage 2013,The Morgenster,1,Undirected
+56,Pinotage 2013,Muratie Shiraz,1,Undirected
+57,Pinotage 2013,Rupert & Rothschild Classique,1,Undirected
+58,Pinotage 2013,Rustenburg Stellenbosch John X Merriman,1,Undirected
+59,Pinotage 2013,Waterkloof Circumstance Syrah,1,Undirected
+60,100% Pinotage,The Bernard Series',1,Undirected
+61,100% Pinotage,Storm Wines,1,Undirected
+62,100% Pinotage,Anthony Rupert Optima,1,Undirected
+63,100% Pinotage,Bell Tower Estate Wine,1,Undirected
+64,100% Pinotage,Galpin Peak Pinot Noir,1,Undirected
+65,100% Pinotage,Spice Route Chakalaka,1,Undirected
+66,100% Pinotage,Lady May,1,Undirected
+67,100% Pinotage,The Morgenster,1,Undirected
+68,100% Pinotage,Muratie Shiraz,1,Undirected
+69,100% Pinotage,Saronsburg Viognier,1,Undirected
+70,100% Pinotage,Tokara Reserve Noble Late Harvest 2009,1,Undirected
+71,100% Pinotage,Vondeling Chardonnay,1,Undirected
+72,100% Pinotage,Waterkloof Circumstance Syrah,1,Undirected
+73,Secateurs Bordeaux Blend,Storm Wines,2,Undirected
+74,Secateurs Bordeaux Blend,Anthony Rupert Optima,2,Undirected
+75,Secateurs Bordeaux Blend,Galpin Peak Pinot Noir,1,Undirected
+76,Secateurs Bordeaux Blend,Claime D'or Cabernet Franc,1,Undirected
+77,Secateurs Bordeaux Blend,Spice Route Chakalaka,1,Undirected
+78,Secateurs Bordeaux Blend,Lady May,2,Undirected
+79,Secateurs Bordeaux Blend,Kloovenburg Shiraz,2,Undirected
+80,Secateurs Bordeaux Blend,Laibach Ladybird,1,Undirected
+81,Secateurs Bordeaux Blend,The Morgenster,1,Undirected
+82,Secateurs Bordeaux Blend,Muratie Shiraz,2,Undirected
+83,Secateurs Bordeaux Blend,Rupert & Rothschild Classique,2,Undirected
+84,Secateurs Bordeaux Blend,Rustenburg Stellenbosch John X Merriman,1,Undirected
+85,Secateurs Bordeaux Blend,Waterkloof Circumstance Syrah,1,Undirected
+86,The Bernard Series',Chardonnay 2013,2,Undirected
+87,The Bernard Series',Bell Tower Estate Wine,2,Undirected
+88,The Bernard Series',Claime D'or Cabernet Franc,1,Undirected
+89,The Bernard Series',De Wetshof Estate Bateleur Chardonnay,1,Undirected
+90,The Bernard Series',Spice Route Chakalaka,2,Undirected
+91,The Bernard Series',Lady May,2,Undirected
+92,The Bernard Series',Hamilton Russel Vineyards Chardonnay 2009,1,Undirected
+93,The Bernard Series',Jordan Nine Yards Chardonnay,2,Undirected
+94,The Bernard Series',Kloovenburg Shiraz,1,Undirected
+95,The Bernard Series',Laibach Ladybird,1,Undirected
+96,The Bernard Series',Muratie Shiraz,1,Undirected
+97,The Bernard Series',Rupert & Rothschild Classique,2,Undirected
+98,The Bernard Series',Rustenburg Stellenbosch John X Merriman,1,Undirected
+99,The Bernard Series',Saronsburg Viognier,2,Undirected
+100,The Bernard Series',Tokara Reserve Noble Late Harvest 2009,1,Undirected
+101,The Bernard Series',Viogner,1,Undirected
+102,Chardonnay 2013,Bell Tower Estate Wine,1,Undirected
+103,Chardonnay 2013,Claime D'or Cabernet Franc,1,Undirected
+104,Chardonnay 2013,De Wetshof Estate Bateleur Chardonnay,1,Undirected
+105,Chardonnay 2013,Spice Route Chakalaka,1,Undirected
+106,Chardonnay 2013,Lady May,1,Undirected
+107,Chardonnay 2013,Hamilton Russel Vineyards Chardonnay 2009,2,Undirected
+108,Chardonnay 2013,Jordan Nine Yards Chardonnay,2,Undirected
+109,Chardonnay 2013,Kloovenburg Shiraz,1,Undirected
+110,Chardonnay 2013,Laibach Ladybird,1,Undirected
+111,Chardonnay 2013,Muratie Shiraz,1,Undirected
+112,Chardonnay 2013,Rupert & Rothschild Classique,2,Undirected
+113,Chardonnay 2013,Rustenburg Stellenbosch John X Merriman,1,Undirected
+114,Chardonnay 2013,Saronsburg Viognier,3,Undirected
+115,Chardonnay 2013,Tokara Reserve Noble Late Harvest 2009,2,Undirected
+116,Chardonnay 2013,Vondeling Chardonnay,1,Undirected
+117,Chardonnay 2013,Viogner,2,Undirected
+118,Storm Wines,Anthony Rupert Optima,2,Undirected
+119,Storm Wines,Galpin Peak Pinot Noir,2,Undirected
+120,Storm Wines,Claime D'or Cabernet Franc,1,Undirected
+121,Storm Wines,Spice Route Chakalaka,1,Undirected
+122,Storm Wines,Lady May,2,Undirected
+123,Storm Wines,Kloovenburg Shiraz,2,Undirected
+124,Storm Wines,Laibach Ladybird,1,Undirected
+125,Storm Wines,The Morgenster,1,Undirected
+126,Storm Wines,Muratie Shiraz,3,Undirected
+127,Storm Wines,Rupert & Rothschild Classique,2,Undirected
+128,Storm Wines,Rustenburg Stellenbosch John X Merriman,1,Undirected
+129,Storm Wines,Vondeling Chardonnay,1,Undirected
+130,Storm Wines,Waterkloof Circumstance Syrah,2,Undirected
+131,Anthony Rupert Optima,Galpin Peak Pinot Noir,1,Undirected
+132,Anthony Rupert Optima,Claime D'or Cabernet Franc,1,Undirected
+133,Anthony Rupert Optima,Spice Route Chakalaka,1,Undirected
+134,Anthony Rupert Optima,Lady May,2,Undirected
+135,Anthony Rupert Optima,Kloovenburg Shiraz,2,Undirected
+136,Anthony Rupert Optima,Laibach Ladybird,1,Undirected
+137,Anthony Rupert Optima,The Morgenster,2,Undirected
+138,Anthony Rupert Optima,Muratie Shiraz,2,Undirected
+139,Anthony Rupert Optima,Rupert & Rothschild Classique,2,Undirected
+140,Anthony Rupert Optima,Rustenburg Stellenbosch John X Merriman,1,Undirected
+141,Anthony Rupert Optima,Saronsburg Viognier,1,Undirected
+142,Anthony Rupert Optima,Tokara Reserve Noble Late Harvest 2009,1,Undirected
+143,Anthony Rupert Optima,Waterkloof Circumstance Syrah,1,Undirected
+144,Bell Tower Estate Wine,Claime D'or Cabernet Franc,1,Undirected
+145,Bell Tower Estate Wine,De Wetshof Estate Bateleur Chardonnay,1,Undirected
+146,Bell Tower Estate Wine,Spice Route Chakalaka,3,Undirected
+147,Bell Tower Estate Wine,Lady May,2,Undirected
+148,Bell Tower Estate Wine,Jordan Nine Yards Chardonnay,2,Undirected
+149,Bell Tower Estate Wine,Kloovenburg Shiraz,2,Undirected
+150,Bell Tower Estate Wine,Laibach Ladybird,2,Undirected
+151,Bell Tower Estate Wine,Morgenhof Estate Chenin Blanc,1,Undirected
+152,Bell Tower Estate Wine,Muratie Shiraz,1,Undirected
+153,Bell Tower Estate Wine,Rupert & Rothschild Classique,1,Undirected
+154,Bell Tower Estate Wine,Rustenburg Stellenbosch John X Merriman,1,Undirected
+155,Bell Tower Estate Wine,Saronsburg Viognier,2,Undirected
+156,Bell Tower Estate Wine,Tokara Reserve Noble Late Harvest 2009,2,Undirected
+157,Bell Tower Estate Wine,Vondeling Chardonnay,1,Undirected
+158,Bell Tower Estate Wine,Viogner,1,Undirected
+159,Galpin Peak Pinot Noir,Claime D'or Cabernet Franc,1,Undirected
+160,Galpin Peak Pinot Noir,Lady May,1,Undirected
+161,Galpin Peak Pinot Noir,Kloovenburg Shiraz,1,Undirected
+162,Galpin Peak Pinot Noir,The Morgenster,1,Undirected
+163,Galpin Peak Pinot Noir,Muratie Shiraz,2,Undirected
+164,Galpin Peak Pinot Noir,Rupert & Rothschild Classique,1,Undirected
+165,Galpin Peak Pinot Noir,Rustenburg Stellenbosch John X Merriman,1,Undirected
+166,Galpin Peak Pinot Noir,Vondeling Chardonnay,1,Undirected
+167,Galpin Peak Pinot Noir,Waterkloof Circumstance Syrah,2,Undirected
+168,Claime D'or Cabernet Franc,Spice Route Chakalaka,1,Undirected
+169,Claime D'or Cabernet Franc,Lady May,2,Undirected
+170,Claime D'or Cabernet Franc,Jordan Nine Yards Chardonnay,1,Undirected
+171,Claime D'or Cabernet Franc,Kloovenburg Shiraz,2,Undirected
+172,Claime D'or Cabernet Franc,Laibach Ladybird,1,Undirected
+173,Claime D'or Cabernet Franc,The Morgenster,1,Undirected
+174,Claime D'or Cabernet Franc,Muratie Shiraz,2,Undirected
+175,Claime D'or Cabernet Franc,Rupert & Rothschild Classique,2,Undirected
+176,Claime D'or Cabernet Franc,Rustenburg Stellenbosch John X Merriman,2,Undirected
+177,Claime D'or Cabernet Franc,Saronsburg Viognier,1,Undirected
+178,Claime D'or Cabernet Franc,Tokara Reserve Noble Late Harvest 2009,1,Undirected
+179,Claime D'or Cabernet Franc,Viogner,1,Undirected
+180,Claime D'or Cabernet Franc,Waterkloof Circumstance Syrah,1,Undirected
+181,Semillon,Rupert & Rothschild Classique,1,Undirected
+182,Semillon,Tokara Reserve Noble Late Harvest 2009,1,Undirected
+183,De Wetshof Estate Bateleur Chardonnay,Spice Route Chakalaka,1,Undirected
+184,De Wetshof Estate Bateleur Chardonnay,Hamilton Russel Vineyards Chardonnay 2009,1,Undirected
+185,De Wetshof Estate Bateleur Chardonnay,Jordan Nine Yards Chardonnay,2,Undirected
+186,De Wetshof Estate Bateleur Chardonnay,Kloovenburg Shiraz,1,Undirected
+187,De Wetshof Estate Bateleur Chardonnay,Laibach Ladybird,1,Undirected
+188,De Wetshof Estate Bateleur Chardonnay,Morgenhof Estate Chenin Blanc,1,Undirected
+189,De Wetshof Estate Bateleur Chardonnay,Rupert & Rothschild Classique,1,Undirected
+190,De Wetshof Estate Bateleur Chardonnay,Saronsburg Viognier,2,Undirected
+191,De Wetshof Estate Bateleur Chardonnay,Tokara Reserve Noble Late Harvest 2009,1,Undirected
+192,De Wetshof Estate Bateleur Chardonnay,Vondeling Chardonnay,1,Undirected
+193,Spice Route Chakalaka,Lady May,3,Undirected
+194,Spice Route Chakalaka,Jordan Nine Yards Chardonnay,2,Undirected
+195,Spice Route Chakalaka,Kloovenburg Shiraz,3,Undirected
+196,Spice Route Chakalaka,Laibach Ladybird,3,Undirected
+197,Spice Route Chakalaka,Morgenhof Estate Chenin Blanc,1,Undirected
+198,Spice Route Chakalaka,Muratie Shiraz,2,Undirected
+199,Spice Route Chakalaka,Rupert & Rothschild Classique,2,Undirected
+200,Spice Route Chakalaka,Rustenburg Stellenbosch John X Merriman,1,Undirected
+201,Spice Route Chakalaka,Saronsburg Viognier,2,Undirected
+202,Spice Route Chakalaka,Tokara Reserve Noble Late Harvest 2009,2,Undirected
+203,Spice Route Chakalaka,Vondeling Chardonnay,1,Undirected
+204,Spice Route Chakalaka,Viogner,1,Undirected
+205,Lady May,Jordan Nine Yards Chardonnay,1,Undirected
+206,Lady May,Kloovenburg Shiraz,3,Undirected
+207,Lady May,Laibach Ladybird,2,Undirected
+208,Lady May,The Morgenster,1,Undirected
+209,Lady May,Muratie Shiraz,3,Undirected
+210,Lady May,Rupert & Rothschild Classique,3,Undirected
+211,Lady May,Rustenburg Stellenbosch John X Merriman,2,Undirected
+212,Lady May,Saronsburg Viognier,1,Undirected
+213,Lady May,Tokara Reserve Noble Late Harvest 2009,1,Undirected
+214,Lady May,Viogner,1,Undirected
+215,Lady May,Waterkloof Circumstance Syrah,1,Undirected
+216,Hamilton Russel Vineyards Chardonnay 2009,Jordan Nine Yards Chardonnay,1,Undirected
+217,Hamilton Russel Vineyards Chardonnay 2009,Rupert & Rothschild Classique,1,Undirected
+218,Hamilton Russel Vineyards Chardonnay 2009,Saronsburg Viognier,2,Undirected
+219,Hamilton Russel Vineyards Chardonnay 2009,Tokara Reserve Noble Late Harvest 2009,1,Undirected
+220,Hamilton Russel Vineyards Chardonnay 2009,Vondeling Chardonnay,1,Undirected
+221,Hamilton Russel Vineyards Chardonnay 2009,Viogner,1,Undirected
+222,Jordan Nine Yards Chardonnay,Kloovenburg Shiraz,2,Undirected
+223,Jordan Nine Yards Chardonnay,Laibach Ladybird,2,Undirected
+224,Jordan Nine Yards Chardonnay,Morgenhof Estate Chenin Blanc,1,Undirected
+225,Jordan Nine Yards Chardonnay,Muratie Shiraz,1,Undirected
+226,Jordan Nine Yards Chardonnay,Rupert & Rothschild Classique,2,Undirected
+227,Jordan Nine Yards Chardonnay,Rustenburg Stellenbosch John X Merriman,1,Undirected
+228,Jordan Nine Yards Chardonnay,Saronsburg Viognier,3,Undirected
+229,Jordan Nine Yards Chardonnay,Tokara Reserve Noble Late Harvest 2009,2,Undirected
+230,Jordan Nine Yards Chardonnay,Vondeling Chardonnay,1,Undirected
+231,Jordan Nine Yards Chardonnay,Viogner,1,Undirected
+232,Kloovenburg Shiraz,Laibach Ladybird,3,Undirected
+233,Kloovenburg Shiraz,Morgenhof Estate Chenin Blanc,1,Undirected
+234,Kloovenburg Shiraz,The Morgenster,1,Undirected
+235,Kloovenburg Shiraz,Muratie Shiraz,3,Undirected
+236,Kloovenburg Shiraz,Rupert & Rothschild Classique,3,Undirected
+237,Kloovenburg Shiraz,Rustenburg Stellenbosch John X Merriman,2,Undirected
+238,Kloovenburg Shiraz,Saronsburg Viognier,2,Undirected
+239,Kloovenburg Shiraz,Tokara Reserve Noble Late Harvest 2009,2,Undirected
+240,Kloovenburg Shiraz,Vondeling Chardonnay,1,Undirected
+241,Kloovenburg Shiraz,Viogner,1,Undirected
+242,Kloovenburg Shiraz,Waterkloof Circumstance Syrah,1,Undirected
+243,Laibach Ladybird,Morgenhof Estate Chenin Blanc,1,Undirected
+244,Laibach Ladybird,Muratie Shiraz,2,Undirected
+245,Laibach Ladybird,Rupert & Rothschild Classique,2,Undirected
+246,Laibach Ladybird,Rustenburg Stellenbosch John X Merriman,1,Undirected
+247,Laibach Ladybird,Saronsburg Viognier,2,Undirected
+248,Laibach Ladybird,Tokara Reserve Noble Late Harvest 2009,2,Undirected
+249,Laibach Ladybird,Vondeling Chardonnay,1,Undirected
+250,Laibach Ladybird,Viogner,1,Undirected
+251,Morgenhof Estate Chenin Blanc,Saronsburg Viognier,1,Undirected
+252,Morgenhof Estate Chenin Blanc,Tokara Reserve Noble Late Harvest 2009,1,Undirected
+253,Morgenhof Estate Chenin Blanc,Vondeling Chardonnay,1,Undirected
+254,The Morgenster,Muratie Shiraz,1,Undirected
+255,The Morgenster,Rupert & Rothschild Classique,1,Undirected
+256,The Morgenster,Rustenburg Stellenbosch John X Merriman,1,Undirected
+257,The Morgenster,Saronsburg Viognier,1,Undirected
+258,The Morgenster,Tokara Reserve Noble Late Harvest 2009,1,Undirected
+259,The Morgenster,Waterkloof Circumstance Syrah,1,Undirected
+260,Muratie Shiraz,Rupert & Rothschild Classique,3,Undirected
+261,Muratie Shiraz,Rustenburg Stellenbosch John X Merriman,2,Undirected
+262,Muratie Shiraz,Saronsburg Viognier,1,Undirected
+263,Muratie Shiraz,Tokara Reserve Noble Late Harvest 2009,1,Undirected
+264,Muratie Shiraz,Vondeling Chardonnay,1,Undirected
+265,Muratie Shiraz,Viogner,1,Undirected
+266,Muratie Shiraz,Waterkloof Circumstance Syrah,2,Undirected
+267,Rupert & Rothschild Classique,Rustenburg Stellenbosch John X Merriman,2,Undirected
+268,Rupert & Rothschild Classique,Saronsburg Viognier,2,Undirected
+269,Rupert & Rothschild Classique,Tokara Reserve Noble Late Harvest 2009,1,Undirected
+270,Rupert & Rothschild Classique,Viogner,1,Undirected
+271,Rupert & Rothschild Classique,Waterkloof Circumstance Syrah,1,Undirected
+272,Rustenburg Stellenbosch John X Merriman,Saronsburg Viognier,1,Undirected
+273,Rustenburg Stellenbosch John X Merriman,Tokara Reserve Noble Late Harvest 2009,1,Undirected
+274,Rustenburg Stellenbosch John X Merriman,Viogner,1,Undirected
+275,Rustenburg Stellenbosch John X Merriman,Waterkloof Circumstance Syrah,1,Undirected
+276,Saronsburg Viognier,Tokara Reserve Noble Late Harvest 2009,4,Undirected
+277,Saronsburg Viognier,Vondeling Chardonnay,2,Undirected
+278,Saronsburg Viognier,Viogner,2,Undirected
+279,Tokara Reserve Noble Late Harvest 2009,Vondeling Chardonnay,2,Undirected
+280,Tokara Reserve Noble Late Harvest 2009,Viogner,2,Undirected
+281,Vondeling Chardonnay,Viogner,1,Undirected
+282,Vondeling Chardonnay,Waterkloof Circumstance Syrah,1,Undirected
