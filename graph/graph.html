@@ -1,0 +1,101 @@
+<!-- FROM http://flowingdata.com/2012/08/02/how-to-make-an-interactive-network-visualization/ -->
+<!doctype html>
+<html class="no-js" lang="en"> 
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>South African Wine Networks</title>
+  <meta name="description" content="Networks describing South African Wines.">
+  <meta name="author" content="LaurenBurnham-King">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <!-- CSS concatenated and minified via ant build script-->
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- end CSS-->
+
+  <script src="js/libs/modernizr-2.0.6.min.js"></script>
+</head>
+
+<body>
+
+  <div id="container" class="container">
+    <header>
+    <h1>South African Wine Networks</h1>
+    <p>Wines similar to one another according to description are linked together. Wine nodes are colored by variety.</p>
+    </header>
+
+<!--       <div id="wine_type_selection" class="control">
+        <h3>Wine Types</h3>
+        <select id="wine_type_select">
+          <option value="data/graph.json">Graph</option>
+          <option value="sledgehammer_2_rounds.json">Sledgehammer</option>
+          <option value="poker_face.json">Poker Face</option>
+          <option value="jolene.json">Jolene</option>
+          <option value="helplessness_blues.json">Helplessness Blues</option>
+          <option value="she_said.json">She Said She Said</option>
+          <option value="short_skirt.json">Short Skirt, Long Jacket</option>
+        </select>
+
+      </div>  -->
+    <div id="controls">
+      <div id="layouts" class="control">
+        <h3>Layout</h3>
+        <a id="force" class="active">Force Directed</a>
+        <a id="radial">Year</a>
+      </div>
+<!--       <div id="filters" class="control">
+        <h3>Filter</h3>
+        <a id="all" class="active">All</a>
+        <a id="popular">Popular</a>
+        <a id="obscure">Obscure</a>
+      </div>
+      <div id="sorts" class="control">
+        <h3>Sort</h3>
+        <a id="songs" class="active">Songs</a>
+        <a id="links">Links</a>
+      </div> -->
+<!--       <div id="search_section" class="control">
+        <form id="search_form" action=""  method="post">
+          <p class="search_wine">Search <input type="text" class="text-input" id="search" value="" /></p>
+        </form>
+      </div> -->
+    <div id="main" role="main">
+      <div id="vis"></div>
+    </div>
+    <footer>
+    <p>Data scraped from <a href="http://www.wine.co,za">wine.co.za</a>. Nodes contain the links back to the source page
+
+    </footer>
+  </div> <!--! end of #container -->
+
+
+  <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script> -->
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.2.min.js"><\/script>')</script>
+
+
+  <script defer src="js/plugins.js"></script>
+  <script defer src="js/script.js"></script>
+  <script src="js/libs/coffee-script.js"></script>
+  <script src="js/libs/d3.v2.js"></script>
+  <script src="js/Tooltip.js"></script>
+  <script type="text/coffeescript" src="coffee/graph.coffee"></script>
+
+  <script> // Change UA-XXXXX-X to be your site's ID
+    window._gaq = [['_setAccount','UAXXXXXXXX1'],['_trackPageview'],['_trackPageLoadTime']];
+    Modernizr.load({
+      load: ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js'
+    });
+  </script>
+
+
+  <!--[if lt IE 7 ]>
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->
+  
+</body>
+</html>
